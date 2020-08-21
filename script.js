@@ -38,7 +38,10 @@ var userPasswordSpan4= document.querySelector('#user-password4')
 var signUpButton4=document.querySelector('#sign-up4')
 
 renderLastRegistered();
-
+$(document).ready(function() {
+  var now =moment();
+  $("#now").text(now.format(''))
+})
 
   // get Item
   function renderLastRegistered() {
