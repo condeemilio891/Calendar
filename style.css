@@ -1,5 +1,5 @@
 body {
-  background-color: #3498AA;
+  background-color: #522B47;
   font-family: 'Open Sans', sans-serif;
   font-size: 16px;
   line-height: 1;
@@ -68,10 +68,12 @@ textarea{
 .col-sm-2{
   background-color: #FF9FB2;
   border-style: outset;
+  border-color: darkcyan;
 }
 .col-sm-8{
-  background-color: #522B47;
+  background-color: #3498AA;
   border-style: outset;
+  border-color:darkcyan
 }
 
 .ui-datepicker,
@@ -83,6 +85,9 @@ textarea{
     padding: 0;
     border: none;
     border-spacing: 0;
+    top: 50%; 
+    left: 26.5%; 
+    
 }
 .ui-datepicker {
     display: none;
@@ -230,9 +235,9 @@ textarea{
   width: 20%;
   margin-left: auto;
   margin-right: auto;
-  margin-top: 10px;
-  color: #06AED5;
-  background-color: #06AED5;
+  margin-top: 1px;
+  color: black;
+  background-color:#522B47;
   float:right; 
   
 }
@@ -240,10 +245,10 @@ img{
   float: inline-end;
 }
 form{
-  background-color: #522B47;
+  background-color: #3498AA;
 }
 .card{
-  background-color: #522B47;
+  background-color: #3498AA;
 }
 .container{
   background-color:#3498AA;
