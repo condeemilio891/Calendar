@@ -192,13 +192,13 @@ renderLastRegistered();
 //highlights
   $(document).ready(function(){
     $(".btn-light").click(function(){
-      $(".x").css("background-color", "green");
+      $(".x").css("background-color", "#C5DCA0");
     });
   });
 
   $(document).ready(function(){
     $(".btn-dark").click(function(){
-      $(".x").css("background-color", "white");
+      $(".x").css("background-color", "#522B47");
     });
   });
 
@@ -206,13 +206,13 @@ renderLastRegistered();
   
   $(document).ready(function(){
     $("#nine").click(function(){
-      $(".nine").css("background-color", "green");
+      $(".nine").css("background-color", "#C5DCA0");
     });
   });
 
   $(document).ready(function(){
     $("#ninen").click(function(){
-      $(".nine").css("background-color", "white");
+      $(".nine").css("background-color", "#522B47");
     });
   });
   
@@ -222,7 +222,7 @@ renderLastRegistered();
        
   $(document).ready(function(){
     $("#ten").click(function(){
-      $(".ten").css("background-color", "green");
+      $(".ten").css("background-color", "#C5DCA0");
     });
   });
 
@@ -236,7 +236,7 @@ renderLastRegistered();
    
   $(document).ready(function(){
     $("#eleven").click(function(){
-      $(".eleven").css("background-color", "green");
+      $(".eleven").css("background-color", "#C5DCA0");
     });
   });
 
@@ -250,62 +250,62 @@ renderLastRegistered();
      
   $(document).ready(function(){
     $("#twelve").click(function(){
-      $(".twelve").css("background-color", "green");
+      $(".twelve").css("background-color", "#C5DCA0");
     });
   });
 
   $(document).ready(function(){
     $("#twelven").click(function(){
-      $(".twelve").css("background-color", "white");
+      $(".twelve").css("background-color", "#522B47");
     });
   });
 
   $(document).ready(function(){
     $("#one").click(function(){
-      $(".one").css("background-color", "green");
+      $(".one").css("background-color", "#C5DCA0");
     });
   });
 
   $(document).ready(function(){
     $("#onen").click(function(){
-      $(".one").css("background-color", "white");
+      $(".one").css("background-color", "#522B47");
     });
   });
 
 
   $(document).ready(function(){
     $("#two").click(function(){
-      $(".two").css("background-color", "green");
+      $(".two").css("background-color", "#C5DCA0");
     });
   });
 
   $(document).ready(function(){
     $("#twon").click(function(){
-      $(".two").css("background-color", "white");
+      $(".two").css("background-color", "#522B47");
     });
   });
 
   $(document).ready(function(){
     $("#three").click(function(){
-      $(".three").css("background-color", "green");
+      $(".three").css("background-color", "#C5DCA0");
     });
   });
 
   $(document).ready(function(){
     $("#threen").click(function(){
-      $(".three").css("background-color", "white");
+      $(".three").css("background-color", "#522B47");
     });
   });
 
   $(document).ready(function(){
     $("#four").click(function(){
-      $(".four").css("background-color", "green");
+      $(".four").css("background-color", "#C5DCA0");
     });
   });
 
   $(document).ready(function(){
     $("#fourn").click(function(){
-      $(".four").css("background-color", "white");
+      $(".four").css("background-color", "#522B47");
     });
   });
 
