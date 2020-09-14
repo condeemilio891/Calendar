@@ -198,7 +198,7 @@ renderLastRegistered();
 
   $(document).ready(function(){
     $(".btn-dark").click(function(){
-      $(".x").css("background-color", "#522B47");
+      $(".x").css("background-color", "#3498AA");
     });
   });
 
@@ -212,7 +212,7 @@ renderLastRegistered();
 
   $(document).ready(function(){
     $("#ninen").click(function(){
-      $(".nine").css("background-color", "#522B47");
+      $(".nine").css("background-color", "#3498AA");
     });
   });
   
@@ -228,7 +228,7 @@ renderLastRegistered();
 
   $(document).ready(function(){
     $("#tenn").click(function(){
-      $(".ten").css("background-color", "white");
+      $(".ten").css("background-color", "#3498AA");
     });
   });
 
@@ -242,7 +242,7 @@ renderLastRegistered();
 
   $(document).ready(function(){
     $("#elevenn").click(function(){
-      $(".eleven").css("background-color", "white");
+      $(".eleven").css("background-color", "#3498AA");
     });
   });
   
@@ -256,7 +256,7 @@ renderLastRegistered();
 
   $(document).ready(function(){
     $("#twelven").click(function(){
-      $(".twelve").css("background-color", "#522B47");
+      $(".twelve").css("background-color", "#3498AA");
     });
   });
 
@@ -268,7 +268,7 @@ renderLastRegistered();
 
   $(document).ready(function(){
     $("#onen").click(function(){
-      $(".one").css("background-color", "#522B47");
+      $(".one").css("background-color", "#3498AA");
     });
   });
 
@@ -281,7 +281,7 @@ renderLastRegistered();
 
   $(document).ready(function(){
     $("#twon").click(function(){
-      $(".two").css("background-color", "#522B47");
+      $(".two").css("background-color", "#3498AA");
     });
   });
 
@@ -293,7 +293,7 @@ renderLastRegistered();
 
   $(document).ready(function(){
     $("#threen").click(function(){
-      $(".three").css("background-color", "#522B47");
+      $(".three").css("background-color", "#3498AA");
     });
   });
 
@@ -305,7 +305,7 @@ renderLastRegistered();
 
   $(document).ready(function(){
     $("#fourn").click(function(){
-      $(".four").css("background-color", "#522B47");
+      $(".four").css("background-color", "#3498AA");
     });
   });
 
