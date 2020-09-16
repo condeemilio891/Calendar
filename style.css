@@ -66,7 +66,7 @@ textarea{
   transition: all .3s ease-in-out;
 }
 .col-sm-2{
-  background-color: #FF9FB2;
+  background-color: darkcyan;
   border-style: outset;
   border-color: darkcyan;
 }
@@ -262,5 +262,5 @@ form{
   background-color:#3498AA;
 }
 button{
-  background-color: darkcyan;
+  background-color: #FF9FB2;
 }
